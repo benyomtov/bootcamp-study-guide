@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prewwork Study Guide was created for Bootcamp students to study what they learned by going through the prework. It has notes on the programming languages covered in the prework.
+This Prework Study Guide was created for Bootcamp students to study what they learned by going through the prework. It has notes on the programming languages covered in the prework.
 
 ## Installation
 
